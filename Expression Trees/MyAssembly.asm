@@ -14,9 +14,6 @@ doit proc
 	; 7 * 2 + 5 * 6		; result of expression is 44
 
 
-
-
-
 	ret
 
 	; ----A More Complex Mathematical Expression ----
