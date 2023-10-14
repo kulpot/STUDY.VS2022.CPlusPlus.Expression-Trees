@@ -11,7 +11,7 @@ doit proc
 	; this is a comment i can type whatever i like after a semicolon and assembler will ignore it
 	
 	; ---- Expression Trees -----
-
+	; 7 * 2 + 5 * 6
 
 
 
